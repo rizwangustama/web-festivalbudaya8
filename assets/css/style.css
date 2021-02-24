@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto&display=swap');
 
+@font-face {
+    font-family: august;
+    src: url('../font/Hey\ August.otf')
+}
 * {
     font-family: 'Poppins', sans-serif;
     color: white;
@@ -48,16 +52,18 @@
 }
 
 .conten h1, .conten h4 {
-    color: #45A735;
+    color: white;
 }
 
 .conten h1 {
-    font-size: 60px;
+    font-size: 100px;
+    font-family: august;
 }
 
 .conten h4 {
-    font-size: 50px;
+    font-size: 70px;
     margin-bottom: 30px;;
+    font-family: august;
 }
 
 .conten a {
