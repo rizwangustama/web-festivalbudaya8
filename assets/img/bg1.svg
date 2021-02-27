@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="687.385" height="381.454" viewBox="0 0 687.385 381.454">
+  <defs>
+    <style>
+      .cls-1 {
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #707070;
+        mix-blend-mode: darken;
+      }
+    </style>
+  </defs>
+  <g id="Group_281" data-name="Group 281" class="cls-1" transform="translate(-5122.615 -2893.546)">
+    <path id="Intersection_1" data-name="Intersection 1" class="cls-2" d="M1233.513,1079.5c18.788-30.3,45.42-50.972,81.641-33.5,87.682,42.3,120.345-120.852,218.341-169.195s118.041,114.81,182.419,114.81c62.994,0,45.541-293.2,203.586-292.57V1079.5Z" transform="translate(3890 2195)"/>
+  </g>
+</svg>
