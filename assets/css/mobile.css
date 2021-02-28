@@ -1,0 +1,35 @@
+@media screen and (max-width: 500px) {
+    .logo {
+        margin: auto;
+        width: 200px;
+        grid-template-columns: 0.8fr 0.8fr 0.8fr;
+        justify-items: center;
+        
+    }
+
+    #dua {
+        height: 850px;
+    }
+
+    #dua .img2 {
+        margin-top: 640px;
+    }
+
+    .container-ku {
+        width: 85%;
+    }
+
+    .grid {
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 10px;
+        row-gap: 10px;
+        grid-template-rows: 100px 100px 100px 100px;
+    }
+
+    
+    .container-ku h4 {
+        font-weight: 400;
+        text-align: center;
+        padding: 100px 0px 40px 0px;
+    }
+}
