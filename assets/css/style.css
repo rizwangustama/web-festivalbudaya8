@@ -45,6 +45,7 @@
 .logo img {
     width: 43px;
     height: 60px;
+    transition: all ease 0.2s;
 }
 
 .conten {
@@ -53,6 +54,7 @@
 
 .conten h1, .conten h4 {
     color: white;
+    transition: all ease 2s;
 }
 
 .conten h1 {
@@ -71,10 +73,13 @@
     padding: 8px 70px;
     border-radius: 100px;
     font-size: 12px;
+    transition: all ease 2s;
 }
 
 .conten a:hover {
     background-color: #397a2f;
+    transition: all ease 0.5s;
+    padding: 10px 78px;
 }
 
 
@@ -87,15 +92,14 @@
 
 #dua .img1 {
     position: absolute;
-    transform: rotate(180deg);
-    max-width: 500px;
+    max-width: 100%;
     height: auto;
 }
 
 
 #dua .img2 {
     position: absolute;
-    margin-top: 500px;
+    margin-top: 560px;
     right: 0;
     max-width: 500px;
 }
@@ -108,8 +112,7 @@
 .container-ku h4 {
     font-weight: 400;
     text-align: center;
-    margin-bottom: 0px;
-    padding: 100px 0px;
+    padding: 200px 0px 40px 0px;
 }
 .container-ku h5 {
     font-weight: 400;
@@ -126,6 +129,12 @@
 
 .grid .row {
     background-color: #317C8F;
+    transition: all ease 2s;
+}
+
+.grid .row:hover {
+    background-color: white;
+    
 }
 
 
@@ -142,12 +151,15 @@
 
 #tiga .box {
     position: absolute;
-    margin-top: 200px;
+    margin-top: 100px;
     width: 100%;
 }
 
-#tiga .box h1 {
+#tiga .box .fest {
     text-align: center;
+    font-size: 40px;
+    margin-bottom: 0px;
+
 }
 
 #tiga .box p {
@@ -164,8 +176,8 @@
 
 footer {
     text-align: center;
-    background-color: #18435A;
-    padding: 30px;
+    background-color: #317C8F;
+    padding: 20px;
 }
 
 

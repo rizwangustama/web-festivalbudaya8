@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="368" viewBox="0 0 1920 368">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #317c8f;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #2a8f9f;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: #34a2bd;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_42" data-name="Rectangle 42" class="cls-1" width="1920" height="368"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="1263" height="1097" transform="translate(-1283 2295)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_41" data-name="Rectangle 41" class="cls-1" width="1177" height="1041" transform="translate(5132 2839)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" class="cls-2">
+    <g id="Group_284" data-name="Group 284">
+      <g id="Group_282" data-name="Group 282">
+        <path id="Path_374" data-name="Path 374" class="cls-3" d="M1369.386,1551.81s208.923-364.848,559.317-226.224,327.619-181.329,776.562-141.691,541.119,362,689.161,248.123S3510.3,1164.405,3510.3,1164.405l-214.376-60.64L1334.368,1086.4Z" transform="translate(-1436 -1150)"/>
+      </g>
+      <g id="Group_283" data-name="Group 283">
+        <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-4" transform="translate(1155 -2772)">
+          <path id="Path_376" data-name="Path 376" class="cls-5" d="M1370.016,1551.81s212.686-364.848,569.392-226.224,333.52-181.329,790.549-141.691,550.865,362,701.573,248.123,117.958-267.614,117.958-267.614l-218.237-60.64L1334.368,1086.4Z" transform="translate(-2666 1555.69)"/>
+        </g>
+        <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-6" transform="translate(-4054 -3288)">
+          <path id="Path_375" data-name="Path 375" class="cls-7" d="M1370.016,1551.81s212.686-364.848,569.392-226.224,333.52-181.329,790.549-141.691,550.865,362,701.573,248.123,117.958-267.614,117.958-267.614l-218.237-60.64L1334.368,1086.4Z" transform="translate(2660.505 2065.896)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
