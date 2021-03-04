@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="354" viewBox="0 0 1920 354">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #98beb1;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-5 {
+        fill: #3e1d32;
+      }
+
+      .cls-4 {
+        opacity: 0.25;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_49" data-name="Rectangle 49" class="cls-1" width="1920" height="354" transform="translate(0 726)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_44" data-name="Rectangle 44" class="cls-2" width="887" height="388" transform="translate(1033 692)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_12" data-name="Mask Group 12" class="cls-3" transform="translate(0 -726)">
+    <g id="Group_288" data-name="Group 288">
+      <path id="Path_381" data-name="Path 381" class="cls-4" d="M1174.938,3029.158s288.4-49.252,658.5,239.144,874.869-144.34,874.869-144.34,287.827-246.831,601.846,79.715,67.188,222.062,67.188,222.062l-2202.4,13.381Z" transform="translate(-1268.938 -2299.965)"/>
+      <g id="Mask_Group_11" data-name="Mask Group 11" class="cls-3">
+        <g id="Group_287" data-name="Group 287">
+          <path id="Path_380" data-name="Path 380" class="cls-5" d="M1174.938,3029.158s288.4-49.252,658.5,239.144,874.869-144.34,874.869-144.34,287.827-246.831,601.846,79.715,67.188,222.062,67.188,222.062l-2202.4,13.381Z" transform="translate(-1436 -2300)"/>
+          <g id="Mask_Group_7" data-name="Mask Group 7" class="cls-6">
+            <path id="Path_377" data-name="Path 377" class="cls-7" d="M486.307,1000.247s61.067-205.746,231-157.741S950.534,705.358,1140.449,650.5s228.763,130.291,353.527,130.291,86.681-347.51,415.207-331.484,230.066,372.633,370.731,379.489,232.12-41.15,330.594,171.441Z" transform="translate(263.209 229.339)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

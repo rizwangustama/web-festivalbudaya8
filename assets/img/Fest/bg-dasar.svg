@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="649" viewBox="0 0 1920 649">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #e5a285;
+        opacity: 0.33;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_50" data-name="Rectangle 50" class="cls-1" width="1920" height="649"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" class="cls-2">
+    <rect id="Rectangle_33" data-name="Rectangle 33" class="cls-3" width="2109" height="1087" rx="543.5" transform="translate(-94 -438)"/>
+  </g>
+</svg>
